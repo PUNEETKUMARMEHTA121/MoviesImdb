@@ -28,6 +28,6 @@ Worked on master branch,so Switch to master master.
 
 ## Screenshots
 
-![Home Screen](C:\Users\DELL\Download\Popular_Movies_SS1)
-![Loading Screen](C:\Users\DELL\Download\Popular_Movies_SS2)
-![Detail Screen](C:\Users\DELL\Download\Popular_Movies_SS3)
+![Home Screen](C:/Users/DELL/Download/Popular_Movies_SS1.jpeg)
+![Loading Screen](C:/Users/DELL/Download/Popular_Movies_SS2.jpeg)
+![Detail Screen](C:/Users/DELL/Download/Popular_Movies_SS3.jpeg)
