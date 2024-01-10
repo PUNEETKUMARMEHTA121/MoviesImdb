@@ -25,6 +25,6 @@ An Android app that fetches movie data from The Movie Database (TMDb) API, displ
 
 ## Screenshots
 
-![Home Screen](screenshots/Popular_Movies_SS1)
-![Loading Screen](screenshots/Popular_Movies_SS2)
-![Detail Screen](screenshots/Popular_Movies_SS3)
+![Home Screen](C:\Users\DELL\Download\Popular_Movies_SS1)
+![Loading Screen](C:\Users\DELL\Download\Popular_Movies_SS2)
+![Detail Screen](C:\Users\DELL\Download\Popular_Movies_SS3)
