@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="homepage">Homepage:</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="retry">Retry</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="horror">Horror</string>
+    <string name="comedy">Comedy</string>
+    <string name="action">Action</string>
+    <string name="popular">Popular</string>
+    <string name="ratings">Ratings</string>
+</resources>

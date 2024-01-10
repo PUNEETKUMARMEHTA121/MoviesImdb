@@ -1,0 +1,40 @@
+<!-- res/menu/main_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/filter"
+        app:showAsAction="ifRoom">
+        <menu>
+            <!-- Filter Submenu -->
+            <item
+                android:id="@+id/filter_horror"
+                android:title="@string/horror" />
+            <item
+                android:id="@+id/filter_comedy"
+                android:title="@string/comedy" />
+            <item
+                android:id="@+id/filter_action"
+                android:title="@string/action" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort"
+        android:title="@string/sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <!-- Sort Submenu -->
+            <item
+                android:id="@+id/sort_popular"
+                android:title="@string/popular" />
+            <item
+                android:id="@+id/sort_ratings"
+                android:title="@string/ratings" />
+        </menu>
+    </item>
+
+</menu>
