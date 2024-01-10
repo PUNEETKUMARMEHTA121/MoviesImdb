@@ -2,6 +2,9 @@
 
 An Android app that fetches movie data from The Movie Database (TMDb) API, displaying them in a grid format with pagination. Users can click on a movie to view its details.
 
+# Branches
+Worked on master branch,so Switch to master master.
+
 ## Build Instructions
 
 1. **Clone the repository.**
